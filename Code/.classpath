@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Libraries_All/Java_LIb/pi4j-1.1-SNAPSHOT/pi4j-1.1-SNAPSHOT/lib/pi4j-core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
